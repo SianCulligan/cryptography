@@ -8,3 +8,8 @@ Resources:
 - https://likegeeks.com/python-caesar-cipher/
 - Ref for later,num2words: https://pypi.org/project/num2words/
 - Is alpha: https://www.w3schools.com/python/ref_string_isalpha.asp
+
+
+
+[REPL to use the crack function](https://repl.it/join/vxrkdqnf-sianculligan1)
+[Open PR](https://github.com/SianCulligan/cryptography/pull/1)
