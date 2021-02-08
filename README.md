@@ -7,3 +7,4 @@ Resources:
 - Split method: https://www.w3schools.com/python/ref_string_split.asp
 - https://likegeeks.com/python-caesar-cipher/
 - Ref for later,num2words: https://pypi.org/project/num2words/
+- Is alpha: https://www.w3schools.com/python/ref_string_isalpha.asp
